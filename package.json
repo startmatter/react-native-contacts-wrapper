@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LynxITDigital/react-native-contacts-wrapper.git"
+    "url": "git+https://github.com/startmatter/react-native-contacts-wrapper.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LynxITDigital/react-native-contacts-wrapper/issues"
+    "url": "https://github.com/startmatter/react-native-contacts-wrapper/issues"
   },
-  "homepage": "https://github.com/LynxITDigital/react-native-contacts-wrapper",
+  "homepage": "https://github.com/startmatter/react-native-contacts-wrapper",
   "maintainers": [
     {
       "name": "Oliver Jacobs"
