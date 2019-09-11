@@ -1,5 +1,6 @@
 {
   "name": "react-native-contacts-wrapper",
+  "description": "Library-wrapper around native contacts.",
   "version": "0.2.4",
   "nativePackage": true,
   "scripts": {
