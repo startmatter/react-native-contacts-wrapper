@@ -11,10 +11,10 @@ Pod::Spec.new do |s|
 
   s.authors      = package['author']
   s.homepage     = package['homepage']
-  s.platform     = :ios, "7.0"
+  s.platform     = :ios, "9.0"
 
-  s.source       = { :git => "https://github.com/LeanidHreska/react-native-contacts-wrapper.git", :tag => "v#{s.version}" }
-  s.source_files  = "ios/**/*.{h,m}"
+  s.source         = { :git => 'https://github.com/LynxITDigital/react-native-contacts-wrapper.git' }
+  s.source_files   = "ios/RCTContactsWrapper/*.{h,m}"
 
   s.dependency 'React'
 end
